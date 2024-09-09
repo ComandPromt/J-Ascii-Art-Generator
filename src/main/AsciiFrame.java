@@ -140,7 +140,6 @@ public class AsciiFrame extends JFrame {
 
 	}
 
-	@SuppressWarnings("unchecked")
 	private void initComponents() {
 
 		jScrollPane1 = new javax.swing.JScrollPane();
